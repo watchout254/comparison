@@ -1,2 +1,2 @@
 # comparison
-- user enters two numbers and the system compares the numbers afterwards outputs the largest number
+- user enters two numbers and system compares them afterwards outputs the largest number
